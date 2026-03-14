@@ -1,0 +1,12 @@
+# Large data folders
+data/raw/
+data/interim/
+data/processed/
+
+# Large file types
+*.parquet
+*.gz
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
